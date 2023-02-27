@@ -17,7 +17,7 @@ $ git clone https://github.com/PvGoRg/Bomber
 
 $ cd Bomber
 
-$ python3 Bomber.py
+$ python3 Alireza-Bomber.py
 
 Channel : https://T.me/PvGoRg
 

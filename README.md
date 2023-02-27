@@ -20,4 +20,5 @@ $ cd Bomber
 $ python3 Bomber.py
 
 Channel : https://T.me/PvGoRg
-**Pv Telegram Coder Alireza : https://t.me://Roh_Bijan
+
+Pv Telegram Coder Alireza : https://t.me://Roh_Bijan

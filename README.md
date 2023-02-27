@@ -20,6 +20,6 @@ $ cd Bomber
 $ python3 Bomber.py
 
 ```
-**Channel : T.me/PvGoRg**
-**Pv Telegram Coder Alireza : t.me://Roh_Bijan**       >
+**Channel : https://T.me/PvGoRg**
+**Pv Telegram Coder Alireza : https://t.me://Roh_Bijan**       >
 ```
